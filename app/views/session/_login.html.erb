@@ -1,0 +1,7 @@
+<% if @current_user %>
+  <p>
+    Logged in as <%= @username %>
+  </p>
+<% else %>
+  <%= render 'session/form' %>
+<% end %>
