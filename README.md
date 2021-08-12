@@ -16,4 +16,7 @@ More to add in the future:
 - more functional front end
   - e.g. vue, stimulus
 
-
+Link to talk:
+- [Link to talk slides](./docs/Action%20Cable%20101%20-%20real%20time%20Rails.pdf)
+- Video available soon
+- 
